@@ -1,4 +1,4 @@
-package Java;
+package java;
 
 public class Signal {
     
